@@ -52,6 +52,8 @@ UlearnJavaProject
 
 3. Выведите в консоль название страны процент зарегистрированных в интернете пользователей которой находится в промежутке от 75% до 85%
 
+![image](https://github.com/BazarJackson/UlearnJavaProject/assets/123628690/1b520cc6-2fab-4637-bad9-8e19d1e4ebcb)
+
 Ответ:
 
 ![image](https://github.com/BazarJackson/UlearnJavaProject/assets/123628690/71393689-b110-4011-81e4-067498ffc6c8)
