@@ -1,4 +1,4 @@
-![image](https://github.com/BazarJackson/UlearnJavaProject/assets/123628690/7c18fa8b-2972-4f5a-9c8c-1a9e4196cc09)# UlearnJavaProject
+UlearnJavaProject
 Студент - Каримов Дмитрий Вадимович РИ-311003 (Вариант 10)
 
 Шаги выполнения:
